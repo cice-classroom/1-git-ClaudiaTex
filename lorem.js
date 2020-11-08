@@ -1,3 +1,4 @@
+// Some comment
 function lorem(ipsum, dolor = 1) {
     const sit = ipsum?.sit ?? 0;
     dolor = sit - amet(dolor);
